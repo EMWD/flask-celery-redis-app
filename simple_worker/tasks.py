@@ -12,4 +12,4 @@ def longtime_add(param1, param2):
     logger.info('Got Request - Starting work ')
     time.sleep(5)
     logger.info('Work Finished ')
-    return param1 + param2
+    return param1 * param2
