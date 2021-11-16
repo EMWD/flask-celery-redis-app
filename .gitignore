@@ -1,5 +1,4 @@
 .code
 .idea
 content
-flask_app/venv
-simple_worker/venv
+*venv
